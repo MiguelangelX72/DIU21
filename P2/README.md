@@ -2,12 +2,12 @@
 
 ### Ideación 
 * Malla receptora de información 
-* Mapa de empatía
-* Point of View 
+  * ![Malla-Receptora-de-Informacion](../img/Malla-Receptora-de-Informacion.png)
 
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
+  * ![Scope-Canvas](../img/Scope-Canvas.png)
 
 
 ### TASK ANALYSIS
