@@ -65,5 +65,13 @@
 
 ![Bocetos-Buscador](../img/Bocetos-Buscador.png)
 
+- Buscador por Gatronomia: 
+
+![Bocetos-Buscador2](../img/Bocetos-Buscador2.png)
+
+- Mi Perfil: 
+
+![Bocetos-MiPerfil](../img/Bocetos-MiPerfil.png)
+
 ### Conclusiones  
 (incluye valoración de esta etapa)
