@@ -4,7 +4,7 @@
 
 
 ## Landing Page
-
+![Scope-Canvas](../img/Landing-Page-Senderismo-Granada.png)
 
 ## Mockup: LAYOUT HI-FI
 
