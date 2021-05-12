@@ -31,6 +31,7 @@ Miembros
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> ![Analisis-Competitivo](../img/Analisis-Competitivo.png)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
