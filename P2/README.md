@@ -57,6 +57,9 @@
 
 ### Prototipo Lo-FI Wireframe 
 
+- Página principal: 
+
+![Bocetos-PaginaPrincipal](../img/Bocetos-PaginaPrincipal.png)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
