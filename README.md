@@ -184,8 +184,29 @@ Miembros
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+- Página principal: 
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+<img src="../img/Mockup-Inicio.png" alt="Mockup-PaginaPrincipal" width="400"/>
+
+- Menu Lateral: 
+
+<img src="../img/Mockup-HamMenu.png" alt="Mockup-MenuLateral" width="400"/>
+
+- Buscador por Senderismo: 
+
+<img src="../img/Mockup-BuscadorSenderismo.png" alt="Mockup-BuscadorSenderismo" width="400"/>
+
+- Buscador por Gastronomia: 
+
+<img src="../img/Mockup-BuscadorGastronomia.png" alt="Mockup-BuscadorGastronomia" width="400"/>
+
+- Informacion de una Ruta: 
+
+<img src="../img/Mockup-SenderismoInfo.png" alt="Mockup-SenderismoInfo" width="400"/>
+
+- Reserva de una Ruta: 
+
+<img src="../img/Mockup-Reserva.png" alt="Mockup-Reserva" width="400"/>
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
