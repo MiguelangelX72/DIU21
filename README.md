@@ -5,24 +5,22 @@ Grupo: DIU1_01AABB.  Curso: 2020/21
 Updated: 8/2/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Senderismo Gatronomico en Granada
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Una aplicación para buscar trayectos guiados de senderismo por Granada. Personas que quieren participar tienen un buscador donde pueden indicar el lugar, la fecha y la hora del trayecto, además de un mapa con la ubicación exacta de las rutas. Al elegir una ruta de senderismo gastronómico te muestra toda la información del recorrido, incluyendo el lugar de recogida, el lugar donde empieza el trayecto, los puntos por donde se pasa, el lugar donde termina, a qué bar se les va a llevar al terminar (para finalizar con una experiencia gastronómica autóctona del lugar y saludable) la ruta, las calorías que has quemado, las calorías consumidas(dependiendo el plato que escojas) y el costo por persona.
+>>> Los usuarios indicarán con cuántas personas piensan ir y los datos de cada una. Se puede realizar el pago y la reserva directamente desde la aplicación. Una vez realizado el pago se puede anular dependiendo de cuántos días faltan para el evento, entre más cercana sea la fecha habrá una penalización que se le indicará con anticipación al usuario. La aplicación contará con versiones en varios idiomas y filtros avanzados que incluyen la búsqueda de rutas de senderismos adaptadas a personas con discapacidad.
+
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Miguelangel Valderrama Perdomo     :octocat:     
+ * :bust_in_silhouette:  Francisco Jose Miron Perez     :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
