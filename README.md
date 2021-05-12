@@ -14,7 +14,7 @@ Descripción:
 
 
 Logotipo: 
-<img src="img/senderismo-granada-logo.png" alt="Logo-Senderismo-en-Granada" style="zoom: 20%;" />
+<img src="img/senderismo-granada-logo.png" alt="Logo-Senderismo-en-Granada" style="width: 20%;" />
 
 Miembros
  * :bust_in_silhouette:   Miguelangel Valderrama Perdomo     :octocat:     
