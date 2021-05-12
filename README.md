@@ -38,7 +38,7 @@ Miembros
 -----
 
 >>> ![Teresa-Mujica](img/Teresa-Mujica.png)
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> La primera persona es Teresa Mujica, una extranjera que desde que tiene muchos años en España y no habia podido conocer el pais. Es una persona que quiere conocer y realizar nuevas experiences por lo que seria una buena candidata para interactuar con una pagina en cual no tiene experiencia en el tema pero si interes. 
 >>> ![Luis-Eduardo](img/Luis-Eduardo.png)
 >>> 
 
@@ -47,7 +47,7 @@ Miembros
 
 
 >>> ![Teresa-Mujica-JourneyMap](img/Teresa-Mujica-JourneyMap.png)
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> A pesar de que a Teresa se le da muy bien la tecnologia y no tiene muchos problemas para interactuar con interfaces, Ella no tiene muchas ideas de por cual ruta deberia empezar y le cuesta mucho organizarse. La pagina rutadelosvinosdegranada.com le viene bien por su interfaz que muestra los horarios comodamente y su mapa interactivo pero aun asi el personaje tendria que poner de su parte. 
 >>> ![Luis-Eduardo-JourneyMap](img/Luis-Eduardo-JourneyMap.png)
 >>> 
 
