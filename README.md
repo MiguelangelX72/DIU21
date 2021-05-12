@@ -150,9 +150,10 @@ Miembros
 
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+
 >>> Logotipo
->>> <img src="img/senderismo-granada-logo.png" alt="Logo-Senderismo-en-Granada" width="200" height="200" />
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+<img src="img/senderismo-granada-logo.png" alt="Logo-Senderismo-en-Granada" width="200" height="200" />
+>>> Se ha utilizado Photoshop para el diseño del logotipo con una resolución de 1689x1618. Se puede usar este imagen logo como cabecera para cuentas de redes sociales
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
