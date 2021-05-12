@@ -8,14 +8,14 @@
 
   - Teresa Mujica:
   ![Teresa-Mujica](../img/Teresa-Mujica.png)
-  - Luis Eduardo:![Luis-Eduardo]
-  (../img/Luis-Eduardo.png)
+  - Luis Eduardo:
+  ![Luis-Eduardo](../img/Luis-Eduardo.png)
 - 2 User Journey Map  ( 1 por persona)
 
-  - Teresa Mujica:![Teresa-Mujica-JourneyMap]
-  (../img/Teresa-Mujica-JourneyMap.png)
-  - Luis Eduardo: ![Luis-Eduardo-JourneyMap]
-  (../img/Luis-Eduardo-JourneyMap.png)
+  - Teresa Mujica:
+  ![Teresa-Mujica-JourneyMap](../img/Teresa-Mujica-JourneyMap.png)
+  - Luis Eduardo:
+  ![Luis-Eduardo-JourneyMap](../img/Luis-Eduardo-JourneyMap.png)
 - Revisión de Usabilidad 
 
 
