@@ -39,6 +39,20 @@
   |        Mi perfil          | Botón que permite gestionar el perfil del usuario. |
   |     Gestionar perfil      | Subapartado de mi perfil que contiene opciones para gestionar los datos personales del perfil. |
   |        Ver perfil         | Botón que permite ver la información del perfil. |
+  |      Eliminar perfil      | Botón que permite dar de baja el perfil del usuario. |
+  |     Modificar perfil      | Formulario que permite modificar la información del perfil. |
+  |      Método de Pago       | Botón que permite administrar el método de pago que se utilizara en las siguientes reservas. |
+  |    Historial de rutas     | Botón que permite acceder a un menú donde se muestran todos las rutas que este usuario ha participado. |
+  |    Valorar experiencia    | Formulario que permite valorar una experiencia al usuario que ya haya participado en esta. |
+  |       Mis Reservas        | Botón que permite acceder a un menú donde te permite administrar las reservas (activas). |
+  |    Consultar Reservas     | Botón que muestra todas las reservas realizadas (activas) |
+  |     Cancelar reserva      | Botón que permite cancelar la reserva de la ruta. |
+  |      Devolución Pago      | Enlace que estará disponible tras la cancelación de la reserva, permitiéndole la devolución del importe |
+  |      Iniciar sesión       | Botón desde el cual el usuario se identificará, permitiéndole administrar su perfil etc posteriormente. |
+  |        Registrarse        | Botón que mostrará un formulario donde pedirá los datos necesarios. |
+  |          Contacto         | Enlace que da acceso a un Formulario y número de teléfono de contacto del servicio de atención al cliente, para que el cliente resuelva sus dudas. |
+  |    Preguntas Frecuentes   | Conjunto de información, agrupado por diferentes temas para solucionar las dudas que suelen surgir inicialmente. |
+  |      Redes Sociales       | Conjunto de botones a las redes sociales más usadas con información de la página. |
 
 
 ### Prototipo Lo-FI Wireframe 
