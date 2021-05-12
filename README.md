@@ -150,7 +150,8 @@ Miembros
 
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
+>>> Logotipo
+>>> <img src="img/senderismo-granada-logo.png" alt="Logo-Senderismo-en-Granada" width="200" height="200" />
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 
@@ -158,12 +159,24 @@ Miembros
 ----
 
 
+>>> ![Landing-Page](img/Landing-Page-Senderismo-Granada.png)
 >>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
+1. Breadcrumbs: Proporcionan información al usuario para ayudarles a entender donde están actualmente y como se puede retroceder.
+2. Autocompletado y Sugerencias de Búsqueda: Estos patrones ayudarán al usuario a realizar una busqueda mas rapida y eficiente.
+3. Scroll continuo: En caso de que la búsqueda del usuario resulte en demasiados  resultados, los menos relevantes no se cargan en memoria hasta que el usuario no llegue al final de la página donde se le indicará con un mensaje que se van a cargar más resultados.
+4. Formato de Fecha y Tiempo: Se utilizara la zona horaria de Granada, el sistema horario de las 24 horas y el formato de fechas sera el dia de la semana, dia, mes y año
+5. User input errors: Indicar al usuario los campos que le faltan para poder enviar el formulario.
+6. Notificaciones: Para avisar al usuario cuando haya una actualización en una de sus reservas de rutas o en caso de que esté suscrito a un evento de interés.
+7. Alerts with title bars: Utilice las alertas de la barra de título solo para situaciones de alto riesgo, como la posible pérdida de conectividad
+8. Navegaciones: Para casi toda la página se usará una navegación multinivel pero para el formulario de reserva de una ruta, la navegación será secuencial (primero se rellenan los datos de los participantes y la fecha de asistencia y luego es que se puede realizar el pago de este).
+9. Progress & activity (Circular) : Método para indicar al usuario si se está cargando o realizando alguna actividad. Consiguiendo que el usuario conozca en todo momento si debe esperar o no.
+10. Diseño Material: La metáfora del diseño material es una teoría racionalizada del espacio y un sistema de movimiento. Está centrada en la realidad táctil e inspirada en el estudio de papel y tinta pero avanzada tecnológicamente y abierta a la imaginación. Las superficies y los bordes muestran pistas visuales basadas en la realidad y predomina el uso de atributos táctiles familiares para ayudar al usuario a entender las prestaciones de la aplicación.
+11. Input line: La línea de entrada indica dónde introducir el texto, que se muestra debajo de la etiqueta.
+
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
 ![Método UX](img/mockup.png)  3.d Mockup
