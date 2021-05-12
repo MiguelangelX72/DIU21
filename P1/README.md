@@ -12,7 +12,7 @@
 
   - Teresa Mujica:![Teresa-Mujica-JourneyMap](../img/Teresa-Mujica-JourneyMap.png)
   - Luis Eduardo:![Luis-Eduardo-JourneyMap](../img/Luis-Eduardo-JourneyMap.png)
-- Revisión de Usabilidad 
+- Revisión de Usabilidad: https://github.com/MiguelangelX72/DIU21/blob/master/P1/Usability%20Review.pdf
 
 
 (valoración y conclusiones de esta etapa)
