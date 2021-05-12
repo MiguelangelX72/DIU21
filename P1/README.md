@@ -14,8 +14,8 @@
 
   - Teresa Mujica:
   ![Teresa-Mujica-JourneyMap](../img/Teresa-Mujica-JourneyMap.png)
-  - Luis Eduardo:\n
-  ![Luis-Eduardo-JourneyMap](../img/Luis-Eduardo-JourneyMap.png)
+  - Luis Eduardo:
+    ![Luis-Eduardo-JourneyMap](../img/Luis-Eduardo-JourneyMap.png)
 - Revisión de Usabilidad 
 
 
