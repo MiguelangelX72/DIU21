@@ -12,7 +12,7 @@
 
 - Página principal: 
 
-![Mockup-PaginaPrincipal](../img/Mockup-Inicio.png | width=20)
+<img src="../img/Mockup-Inicio.png" alt="Mockup-PaginaPrincipal" width="200"/>
 
 - Menu Lateral: 
 
