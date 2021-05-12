@@ -30,7 +30,8 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Se ha elegido como caso de estudio las paginas web de rutas de vinos: rutadelosvinosdegranada.com, wineroutesofspain.com  y turismodevino.com
+. Se ha elegido rutasdelosvinosgranada.com ya que esta especializada en Granada y tiene las funcionalidades con mas valor: pagina de inicio accesible, informa todos los detalles de las rutas, se reservan rutas desde la misma pagina, compra de vinos, carrito de compras, mapa interactivo, una seccion de propuestas destacadas y version en ingles 
 >>> ![Analisis-Competitivo](img/Analisis-Competitivo.png)
 
 ![Método UX](img/Persona.png) 1.b Persona
