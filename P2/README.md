@@ -74,4 +74,5 @@
 ![Bocetos-MiPerfil](../img/Bocetos-MiPerfil.png)
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+
+En ésta etapa vemos los puntos clave desde otro punto de vista. Despues de lo aprendido con anterioridad podemos crear un nuevo proyecto con una temática diferente a la de la practica 1 pero con las mejoras y una estructura más solida de mayor exigencia. En cada etapa somos más conscientes de los errores comunes que solemos cometer cuando estamos desarrollando un proyecto.
