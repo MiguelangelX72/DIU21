@@ -2,9 +2,11 @@
 
 ## Moodboard (diseño visual + logotipo)   
 
+* Logotipo
+<img src="img/senderismo-granada-logo.png" alt="Logo-Senderismo-en-Granada" width="200" height="200" />
 
 ## Landing Page
-![Scope-Canvas](../img/Landing-Page-Senderismo-Granada.png)
+![Landing-Page](../img/Landing-Page-Senderismo-Granada.png)
 
 ## Mockup: LAYOUT HI-FI
 
