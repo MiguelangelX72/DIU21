@@ -12,27 +12,27 @@
 
 - Página principal: 
 
-<img src="../img/Mockup-Inicio.png" alt="Mockup-PaginaPrincipal" width="200"/>
+<img src="../img/Mockup-Inicio.png" alt="Mockup-PaginaPrincipal" width="400"/>
 
 - Menu Lateral: 
 
-![Mockup-MenuLateral](../img/Mockup-HamMenu.png)
+<img src="../img/Mockup-HamMenu.png" alt="Mockup-MenuLateral" width="400"/>
 
 - Buscador por Senderismo: 
 
-![Mockup-BuscadorSenderismo](../img/Mockup-BuscadorSenderismo.png)
+<img src="../img/Mockup-BuscadorSenderismo.png" alt="Mockup-BuscadorSenderismo" width="400"/>
 
 - Buscador por Gastronomia: 
 
-![Mockup-BuscadorGastronomia](../img/Mockup-BuscadorGastronomia.png)
+<img src="../img/Mockup-BuscadorGastronomia.png" alt="Mockup-BuscadorGastronomia" width="400"/>
 
 - Informacion de una Ruta: 
 
-![Mockup-SenderismoInfo](../img/Mockup-SenderismoInfo.png)
+<img src="../img/Mockup-SenderismoInfo.png" alt="Mockup-SenderismoInfo" width="400"/>
 
 - Reserva de una Ruta: 
 
-![Mockup-Reserva](../img/Mockup-Reserva.png)
+<img src="../img/Mockup-Reserva.png" alt="Mockup-Reserva" width="400"/>
 
 ## Documentación: Publicación del Case Study
 
