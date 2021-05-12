@@ -84,13 +84,13 @@ Miembros
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> ![Scope-Canvas](../img/Scope-Canvas.png)
+>>> ![Scope-Canvas](img/Scope-Canvas.png)
 >>> Propuesta de valor 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> ![User-Task-Matrix](../img/User-Task-Matrix.png)
+>>> ![User-Task-Matrix](img/User-Task-Matrix.png)
 >>> Definir "User Map" y "Task Flow" ... 
 
 
@@ -99,7 +99,7 @@ Miembros
 
 
 >>> Identificar términos para diálogo con usuario 
->>> ![SiteMap-Senderismo-Granada](../img/SiteMap-Senderismo-Granada.png) 
+>>> ![SiteMap-Senderismo-Granada](img/SiteMap-Senderismo-Granada.png) 
 
  |     Label                 |                          Scope note                          |
   | :-----------------------: | :----------------------------------------------------------: |
