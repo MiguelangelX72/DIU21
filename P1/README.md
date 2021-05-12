@@ -3,7 +3,9 @@
 
 
 
-- Desk research: Análisis Competencia 
+- Desk research: Análisis Competencia
+
+  -  ![Analisis-Competitivo](../img/Analisis-Competitivo.png)
 - 2 Personas 
 
   - Teresa Mujica:![Teresa-Mujica](../img/Teresa-Mujica.png)
