@@ -61,5 +61,9 @@
 
 ![Bocetos-PaginaPrincipal](../img/Bocetos-PaginaPrincipal.png)
 
+- Buscador por Rutas: 
+
+![Bocetos-Buscador](../img/Bocetos-Buscador.png)
+
 ### Conclusiones  
 (incluye valoración de esta etapa)
