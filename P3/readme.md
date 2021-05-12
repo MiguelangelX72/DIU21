@@ -10,6 +10,29 @@
 
 ## Mockup: LAYOUT HI-FI
 
+- Página principal: 
+
+![Mockup-PaginaPrincipal](../img/Mockup-Inicio.png)
+
+- Menu Lateral: 
+
+![Mockup-MenuLateral](../img/Mockup-HamMenu.png)
+
+- Buscador por Senderismo: 
+
+![Mockup-BuscadorSenderismo](../img/Mockup-BuscadorSenderismo.png)
+
+- Buscador por Gastronomia: 
+
+![Mockup-BuscadorGastronomia](../img/Mockup-BuscadorGastronomia.png)
+
+- Informacion de una Ruta: 
+
+![Mockup-SenderismoInfo](../img/Mockup-SenderismoInfo.png)
+
+- Reserva de una Ruta: 
+
+![Mockup-Reserva](../img/Mockup-Reserva.png)
 
 ## Documentación: Publicación del Case Study
 
