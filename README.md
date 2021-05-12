@@ -135,7 +135,21 @@ Miembros
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+- Página principal: 
+
+![Bocetos-PaginaPrincipal](img/Bocetos-PaginaPrincipal.png)
+
+- Buscador por Rutas: 
+
+![Bocetos-Buscador](img/Bocetos-Buscador.png)
+
+- Buscador por Gatronomia: 
+
+![Bocetos-Buscador2](img/Bocetos-Buscador2.png)
+
+- Mi Perfil: 
+
+![Bocetos-MiPerfil](img/Bocetos-MiPerfil.png) 
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
