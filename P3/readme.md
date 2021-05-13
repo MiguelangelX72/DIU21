@@ -37,6 +37,5 @@
 
 ## Documentación: Publicación del Case Study
 
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+Durante la realización de la prácticas hemos encontrado dificultades en centralizar todas las ideas que nos iban surgiendo, de manera que siempre fuera atractiva, facil y clara la utilización de nuestra aplicación para el usuario. Es por ello que hemos simplificado todo al maximo posible, siempre y cuando se le informara perfectamente de todos los servicios ofertados. 
  
