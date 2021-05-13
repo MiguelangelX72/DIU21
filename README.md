@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU3_LosCompadres.  Curso: 2020/21 
-Updated: 12/5/2021
+Updated: 13/5/2021
 
 Proyecto: 
 >>> Senderismo Gatronomico en Granada
