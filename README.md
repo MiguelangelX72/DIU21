@@ -78,7 +78,7 @@ La aplicacion web "rutadelosvinosdegranada.com" muestra una buena interfaz hacie
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> ![Scope-Canvas](img/Scope-Canvas.png)
->>> Propuesta de valor 
+>>> La propuesta de valor nos ha permitido analizar estructuralmente que necesidades, acciones, y objetivo, construyendo una organización que nos ha aclarado desde donde partimos (“rutasdelosvinosengranada.com”) y hacia dónde vamos (“senderismoGastronomicoEnGranada.com”) añadiéndole nuevas ideas y mejoras para llegar a conseguir construir un proyecto con grandes posibilidades para los usuarios y el mercado. 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
