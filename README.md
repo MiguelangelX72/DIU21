@@ -149,6 +149,7 @@ Miembros
 -----
 
 
+>>> ![Moodboard-Senderismo-Granada](img/Moodboard-Senderismo-Granada.png)
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 
 >>> Logotipo
