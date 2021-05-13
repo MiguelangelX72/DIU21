@@ -71,7 +71,7 @@ La aplicacion web "rutadelosvinosdegranada.com" muestra una buena interfaz hacie
 
 
 >>> ![Malla-Receptora-de-Informacion](img/Malla-Receptora-de-Informacion.png)
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+>>> Debido a que el tema de la pagina que vamos a realizar cambia con respecto al de la pagina que realizamos, en la Malla Receptora de Informacion nos centramos mas en considerar aspectos que tienen que ver mas con la interfaz de esta ya que tendremos una bastante parecida y caracteristicas mas concretas que pueden tener ambos temas en comun, como el tema pasa de ser subre rutas de vinos guiada a una rutas de senderismo guiado, muchos aspectos se conservan
 
 
 
@@ -167,7 +167,7 @@ La aplicacion web "rutadelosvinosdegranada.com" muestra una buena interfaz hacie
 
 
 >>> ![Landing-Page](img/Landing-Page-Senderismo-Granada.png)
->>> Plantear Landing Page 
+>>> En el Landing Page tenemos un texto que le da entender al usuario de que se trata nuestra pagina, un boton para ir a ella y abajo mas informacion proporcionando en detalle nuestros servicios por si el usuario quiere conocer mas
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -184,7 +184,7 @@ La aplicacion web "rutadelosvinosdegranada.com" muestra una buena interfaz hacie
 10. Diseño Material: La metáfora del diseño material es una teoría racionalizada del espacio y un sistema de movimiento. Está centrada en la realidad táctil e inspirada en el estudio de papel y tinta pero avanzada tecnológicamente y abierta a la imaginación. Las superficies y los bordes muestran pistas visuales basadas en la realidad y predomina el uso de atributos táctiles familiares para ayudar al usuario a entender las prestaciones de la aplicación.
 11. Input line: La línea de entrada indica dónde introducir el texto, que se muestra debajo de la etiqueta.
 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> Hemos elegido los patrones y guidelines que ademas de que deben seguir las aplicaciones moviles, son los mas relevantes para aplicaciones como la nuestra (Reserva de participacion en eventos e informacion). Cada uno describe brevemente en donde se va a utilizar.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
