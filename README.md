@@ -218,8 +218,7 @@ La aplicacion web "rutadelosvinosdegranada.com" muestra una buena interfaz hacie
 -----
 
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+[![UX-Case-Study-Video](https://img.youtube.com/vi/GRKGApCSL7g/0.jpg)](https://www.youtube.com/watch?v=GRKGApCSL7g)
 
 
 ## Paso 4. Evaluación 
