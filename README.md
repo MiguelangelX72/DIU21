@@ -84,7 +84,8 @@ La aplicacion web "rutadelosvinosdegranada.com" muestra una buena interfaz hacie
 -----
 
 >>> ![User-Task-Matrix](img/User-Task-Matrix.png)
->>> Definir "User Map" y "Task Flow" ... 
+
+>>> En el Task Analysis, consideramos los aspectos de la Malla Receptora de Informacion y el Scope Canvas para definir los usuarios, las tareas que se realizan en la pagina, y su nivel de uso (High, Medium, Low). Los usuarios que tenemos son los que suelen hacer senderismo y estan familiarizados con los terminos y la pagina; lo que no estan familiarizados con el senderismo; y los usuarios turistas que potencialmente no hablan español.
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
