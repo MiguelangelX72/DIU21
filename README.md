@@ -60,7 +60,7 @@ Miembros
 >>> - Enlace al documento:  https://github.com/MiguelangelX72/DIU21/blob/master/P1/Usability%20Review.pdf
 >>> - Valoración final (numérica): 87 - Good
 >>> - Comentario sobre la valoración:
-La aplicacion web "rutadelosvinosdegranada.com" muestra una buena presentación haciendo la experiencia del usuario atractiva. Presenta una amplia variedad de servicios que aunque están bien clasificados. Uno de los puntos álgidos es que es totalmente responsive. Como desventaja indicar la carencia de breadcrumb-trail(migas de pan) ya que al acceder a varios niveles del menú en caso de quere acceder a varios niveles anteriores el usuario encuentra gran dificultad.
+La aplicacion web "rutadelosvinosdegranada.com" muestra una buena interfaz haciendo la experiencia del usuario atractiva. Presenta una amplia variedad de servicios que aunque están bien clasificados. Uno de los puntos álgidos es que es totalmente responsive. Como desventaja indicar la carencia de breadcrumb-trail(migas de pan) ya que al acceder a varios niveles del menú en caso de quere acceder a varios niveles anteriores el usuario encuentra gran dificultad.
 
 
 ## Paso 2. UX Design  
