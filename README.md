@@ -41,6 +41,8 @@ Miembros
 >>> La primera persona es Teresa Mujica, una extranjera que desde que tiene muchos años en España y no habia podido conocer el pais. Es una persona que quiere conocer y realizar nuevas experiences por lo que seria una buena candidata para interactuar con una pagina en cual no tiene experiencia en el tema pero si interes. 
 >>> ![Luis-Eduardo](img/Luis-Eduardo.png)
 >>> Luis Eduardo, es un padre de familia que está buscando un plan nuevo para vacaciones(familiares). El inconveniente inicial es el desconocimiento el enoturismo y sus distintas actividades, pero que tras interactuar puede informarse acercandole a las actividades para disfrutar y relajarse con su familia.
+
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
