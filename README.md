@@ -152,7 +152,7 @@ Miembros
 
 
 >>> ![Moodboard-Senderismo-Granada](img/Moodboard-Senderismo-Granada.png)
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+>>> Utilizamos el moodboard para definir los temas visuales que utilizaremos para el proyecyo. Definimos los colores principales naranja, verde y azul que nos parecio que eran los adecuados para el tema, colores secundarios basicos, el logotipo y los iconos utilizado (los recomendados para el Material Design). Como fuentes tenemos Noto Sans, una fuente bastante clara y estandar para el cuerpo de la pagina y Adobe Casion para el Titulo o texto resaltante. Por ultimo, algunas imagenes relacionadas con el tema y el estilo visual
 
 >>> Logotipo
 
