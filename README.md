@@ -40,8 +40,7 @@ Miembros
 >>> ![Teresa-Mujica](img/Teresa-Mujica.png)
 >>> La primera persona es Teresa Mujica, una extranjera que desde que tiene muchos años en España y no habia podido conocer el pais. Es una persona que quiere conocer y realizar nuevas experiences por lo que seria una buena candidata para interactuar con una pagina en cual no tiene experiencia en el tema pero si interes. 
 >>> ![Luis-Eduardo](img/Luis-Eduardo.png)
->>> 
-
+>>> Luis Eduardo, es un padre de familia que está buscando un plan nuevo para vacaciones(familiares). El inconveniente inicial es el desconocimiento el enoturismo y sus distintas actividades, pero que tras interactuar puede informarse acercandole a las actividades para disfrutar y relajarse con su familia.
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
@@ -49,7 +48,7 @@ Miembros
 >>> ![Teresa-Mujica-JourneyMap](img/Teresa-Mujica-JourneyMap.png)
 >>> A pesar de que a Teresa se le da muy bien la tecnologia y no tiene muchos problemas para interactuar con interfaces, Ella no tiene muchas ideas de por cual ruta deberia empezar y le cuesta mucho organizarse. La pagina rutadelosvinosdegranada.com le viene bien por su interfaz que muestra los horarios comodamente y su mapa interactivo pero aun asi el personaje tendria que poner de su parte. 
 >>> ![Luis-Eduardo-JourneyMap](img/Luis-Eduardo-JourneyMap.png)
->>> 
+>>> Pese a que la interaccion con la página es agradable, Luis encuentra una serie de problemas principalmente por frustrarse con facilidad, porque lo que busca es que se le muestre la información de la forma más sencilla y agil posible, sin tener que dedicarle mucho tiempo para escoger una ruta. Debido a la facilidad de frustrarse es cuando el usuario comete más errores, que es por lo que finalmente quiere modificar una eleccion incorrecta de una ruta y la web no lo permite de forma directa.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
