@@ -1,6 +1,7 @@
 # DIU - Practica 3, entregables
 
 ## Moodboard (diseño visual + logotipo)   
+![Moodboard-Senderismo-Granada](../img/Moodboard-Senderismo-Granada.png)
 
 * Logotipo
 <img src="../img/senderismo-granada-logo.png" alt="Logo-Senderismo-en-Granada" width="200" height="200" />
