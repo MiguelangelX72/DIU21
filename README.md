@@ -49,6 +49,7 @@ Miembros
 
 >>> ![Teresa-Mujica-JourneyMap](img/Teresa-Mujica-JourneyMap.png)
 >>> A pesar de que a Teresa se le da muy bien la tecnologia y no tiene muchos problemas para interactuar con interfaces, Ella no tiene muchas ideas de por cual ruta deberia empezar y le cuesta mucho organizarse. La pagina rutadelosvinosdegranada.com le viene bien por su interfaz que muestra los horarios comodamente y su mapa interactivo pero aun asi el personaje tendria que poner de su parte. 
+
 >>> ![Luis-Eduardo-JourneyMap](img/Luis-Eduardo-JourneyMap.png)
 
 >>> Pese a que la interaccion con la página es agradable, Luis encuentra una serie de problemas principalmente por frustrarse con facilidad, porque lo que busca es que se le muestre la información de la forma más sencilla y agil posible, sin tener que dedicarle mucho tiempo para escoger una ruta. Debido a la facilidad de frustrarse es cuando el usuario comete más errores, que es por lo que finalmente quiere modificar una eleccion incorrecta de una ruta y la web no lo permite de forma directa.
@@ -90,7 +91,7 @@ Miembros
 ----
 
 
->>> Identificar términos para diálogo con usuario 
+>>> El sitemap propuesto describe la manera en la que se realiza la navegacion que tiene una estructura jerarquica. Para su realizacion hemos extraido y descrito las modulos del sitemap a partir de los puntos anteriores pero sobretodo en el apartado de Task analysis
 >>> ![SiteMap-Senderismo-Granada](img/SiteMap-Senderismo-Granada.png) 
 
  |     Label                 |                          Scope note                          |
