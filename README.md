@@ -228,7 +228,17 @@ La aplicacion web "rutadelosvinosdegranada.com" muestra una buena interfaz hacie
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+## Caso 1
+
+Descripción: 
+
+Repositorio: https://github.com/jesusts99/DIU21
+
+## Caso 2
+
+Descripción: 
+
+Repositorio: https://github.com/daviyisu/DIU21
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
