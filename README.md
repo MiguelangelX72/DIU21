@@ -236,7 +236,7 @@ Repositorio: https://github.com/jesusts99/DIU21
 
 ## Caso 2
 
-Descripción: 
+Descripción: El equipo tive2 diseño la aplicacion "Acogavi", que es una aplicacion para organizacion de viajes y hospedaje. La aplicacion cuenta con sistema de puntos que el usuario va acumulando, de manera que la proxima compra será mas barata
 
 Repositorio: https://github.com/daviyisu/DIU21
 
