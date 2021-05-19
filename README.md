@@ -249,10 +249,10 @@ Repositorio: https://github.com/daviyisu/DIU21
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Luis Eduardo  | H / 60   | Jubilado    | Baja        | Impulsivop   | Movil      | A 
-| Rosa Maria    | M / 35   | Enfermera   | Media       | Extrovertida | Movil      | A 
-| Teresa Mujica | M / 23   | Fotógrafa   | Media       | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Alta        | Racional     | Web        | B 
+| Wayne Rooney  | H / 60   | Jubilado    | Baja        | Impulsivop   | Movil      | A 
+| Alice Willians| M / 35   | Enfermera   | Media       | Extrovertida | Movil      | A 
+| Teresa Mujica | M / 23   | Fotógrafa   | Media       | Emocional    | Movil      | B 
+| Miguel Delgado| H / 20   | Estudiante  | Alta        | Racional     | Movil      | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
