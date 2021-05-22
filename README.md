@@ -249,11 +249,12 @@ Repositorio: https://github.com/daviyisu/DIU21
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Wayne Rooney  | H / 60   | Jubilado    | Baja        | Impulsivop   | Movil      | A 
+| Wayne Rooney  | H / 60   | Jubilado    | Baja        | Impulsivo    | Movil      | A 
 | Alice Willians| M / 35   | Enfermera   | Media       | Extrovertida | Movil      | A 
 | Teresa Mujica | M / 23   | Fotógrafa   | Media       | Emocional    | Movil      | B 
 | Miguel Delgado| H / 20   | Estudiante  | Alta        | Racional     | Movil      | B 
 
+>>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
