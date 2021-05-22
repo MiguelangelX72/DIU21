@@ -244,8 +244,23 @@ Repositorio: https://github.com/daviyisu/DIU21
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+>>> Wayne Rooney
+>>> Tipos: 6
+>>> Actividad (Acción): 4
+>>> Emociones: 4 (Surprise)
+>>> s
+
+>>> Alice Willians
+
+>>> Teresa Mujica
+>>> Tipos: 1
+>>> Actividad (Acción): 5
+>>> Emociones: 4 (Surprise)
+>>> Necesita encontrar en la aplicación un lugar tranquilo y sorprendente para viajar, donde pueda tomar buenas fotos, y aprovechar al maximo el descuento que le brindan los puntos que tiene en la aplicación.
+
+>>> Miguel Delgado
+>>> 
+
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
@@ -254,7 +269,6 @@ Repositorio: https://github.com/daviyisu/DIU21
 | Teresa Mujica | M / 23   | Fotógrafa   | Media       | Emocional    | Movil      | B 
 | Miguel Delgado| H / 20   | Estudiante  | Alta        | Racional     | Movil      | B 
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
