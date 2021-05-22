@@ -245,18 +245,18 @@ Repositorio: https://github.com/daviyisu/DIU21
 ----
 
 >>> Wayne Rooney
->>> Tipos: 6
->>> Actividad (Acción): 4
->>> Emociones: 4 (Surprise)
->>> s
+>>> - Tipos: 6
+>>> - Actividad (Acción): 4
+>>> - Emociones: 4 (Surprise)
+>>> - s
 
 >>> Alice Willians
 
 >>> Teresa Mujica
->>> Tipos: 1
->>> Actividad (Acción): 5
->>> Emociones: 4 (Surprise)
->>> Necesita encontrar en la aplicación un lugar tranquilo y sorprendente para viajar, donde pueda tomar buenas fotos, y aprovechar al maximo el descuento que le brindan los puntos que tiene en la aplicación.
+>>> - Tipos: 1
+>>> - Actividad (Acción): 5
+>>> - Emociones: 4 (Surprise)
+>>> - Necesita encontrar en la aplicación un lugar tranquilo y sorprendente para viajar, donde pueda tomar buenas fotos, y aprovechar al maximo el descuento que le brindan los puntos que tiene en la aplicación.
 
 >>> Miguel Delgado
 >>> 
