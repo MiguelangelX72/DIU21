@@ -248,13 +248,13 @@ Repositorio: https://github.com/daviyisu/DIU21
 >>> - Tipos: 6
 >>> - Actividad (Acción): 4
 >>> - Emociones: 4 (Surprise)
->>> - Después de jubilarse, decidió conocer la cultura española y para ello pensó en visitar Madrid. Desea planificar su viaje durante los meses de Noviembre y Diciembre. Mientras realiza la búsqueda está sorprendido gratamente por la disponibilidad y servicios de los que se le ha puesto a su disposición.
+>>> - Después de jubilarse, decidió conocer la cultura española y para ello pensó en visitar Madrid. Necesita planificar su viaje durante los meses de Noviembre y Diciembre. Mientras realiza la búsqueda está sorprendido gratamente por la disponibilidad y servicios de los que se le ha puesto a su disposición.
 
 >>> Alice Willians
 >>> - Tipos: 2
 >>> - Actividad (Acción): 2
 >>> - Emociones: 6 (Sadness)
->>> - f
+>>> - Desea visitar la provincia de Madrid junto a su familia. Su principal objetivo es que sus hijos conozcan el idioma y sus costumbres. Aunque muestra la aplicación una gran disponibilidad de eventos, todos están relacionados sobre conocer la ciudad pero no ha encontrado ninguno en el que sus hijos puedan practicar y aprender el idioma. Es por ello que muestra emoción de tristeza respecto a sus expectativas iniciales.
 
 >>> Teresa Mujica
 >>> - Tipos: 1
