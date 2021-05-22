@@ -228,13 +228,13 @@ La aplicacion web "rutadelosvinosdegranada.com" muestra una buena interfaz hacie
 ----
 
 
-## Caso 1
+## Caso A
 
 Descripción: El equipo JTS bajo el proyecto "Turimo Galera" , ha diseñado una aplicacion destinada a usuarios extranjeros, con la finalidad de atraerlos hacia nuestra cultura y tradiciones.
 
 Repositorio: https://github.com/jesusts99/DIU21
 
-## Caso 2
+## Caso B
 
 Descripción: El equipo tive2 diseño la aplicacion "Acogavi", que es una aplicacion para organizacion de viajes y hospedaje. La aplicacion cuenta con sistema de puntos que el usuario va acumulando, de manera que la proxima compra será mas barata
 
