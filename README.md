@@ -230,7 +230,7 @@ La aplicacion web "rutadelosvinosdegranada.com" muestra una buena interfaz hacie
 
 ## Caso A
 
-Descripción: El equipo JTS bajo el proyecto "Turimo Galera" , ha diseñado una aplicacion destinada a usuarios extranjeros, con la finalidad de atraerlos hacia nuestra cultura y tradiciones.
+Descripción: El equipo JTS bajo el proyecto "Turismo Galera" , ha diseñado una aplicacion destinada a usuarios extranjeros, con la finalidad de atraerlos hacia nuestra cultura y tradiciones.
 
 Repositorio: https://github.com/jesusts99/DIU21
 
