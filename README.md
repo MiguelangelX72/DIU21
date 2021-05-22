@@ -248,9 +248,13 @@ Repositorio: https://github.com/daviyisu/DIU21
 >>> - Tipos: 6
 >>> - Actividad (Acción): 4
 >>> - Emociones: 4 (Surprise)
->>> - s
+>>> - Después de jubilarse, decidió conocer la cultura española y para ello pensó en visitar Madrid. Desea planificar su viaje durante los meses de Noviembre y Diciembre. Mientras realiza la búsqueda está sorprendido gratamente por la disponibilidad y servicios de los que se le ha puesto a su disposición.
 
 >>> Alice Willians
+>>> - Tipos: 2
+>>> - Actividad (Acción): 2
+>>> - Emociones: 6 (Sadness)
+>>> - f
 
 >>> Teresa Mujica
 >>> - Tipos: 1
@@ -259,7 +263,11 @@ Repositorio: https://github.com/daviyisu/DIU21
 >>> - Necesita encontrar en la aplicación un lugar tranquilo y sorprendente para viajar, donde pueda tomar buenas fotos, y aprovechar al maximo el descuento que le brindan los puntos que tiene en la aplicación.
 
 >>> Miguel Delgado
->>> 
+>>> - Tipos: 4
+>>> - Actividad (Acción): 3
+>>> - Emociones: 1 (anger)
+>>> - Necesita encontrar un lugar que tenga hospedaje con servicios especiales donde pueda disfrutar, ir a fiestas, no pasar un mal rato con los empleados y ganar puntos para viajes futuros.
+
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
