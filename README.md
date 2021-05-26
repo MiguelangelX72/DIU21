@@ -281,7 +281,7 @@ Repositorio: https://github.com/daviyisu/DIU21
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
-![LosCompadres-SUS](img/LosCompadres-SUS.PNG) 
+![LosCompadres-SUS](img/LosCompadres-SUS.png) 
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
