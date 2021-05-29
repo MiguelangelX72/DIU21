@@ -314,7 +314,7 @@ Repositorio: https://github.com/daviyisu/DIU21
 ## Conclusión final / Valoración de las prácticas
 
 
->>> Nuestra perspectiva a la hora de afrontar un proyecto con ésta envergadura ha cambiado considerablemente. Nos ha enseñado a tener en cuenta otros puntos de vista y a organizar hacia donde queremos llegar. Para ello hemos usado distintas técnicas que nos han facilitado el alcanzar el punto en el que nos encontramos hoy día. 
+>>> Nuestra perspectiva a la hora de afrontar un proyecto con ésta envergadura ha cambiado considerablemente. Nos ha enseñado a tener en cuenta otros puntos de vista y a organizar hacia donde queremos llegar. Para ello hemos usado distintas técnicas que nos han facilitado el alcanzar los objetivos en los que nos encontramos hoy día. 
 >>> Hemos desarrollado un conocimiento más crítico que nos ayudará en futuros proyectos. 
 
 
