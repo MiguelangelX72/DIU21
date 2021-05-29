@@ -289,7 +289,7 @@ Repositorio: https://github.com/daviyisu/DIU21
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->>> Reporte de Usabilidad (Acogavi):  https://github.com/MiguelangelX72/DIU21/blob/master/P4/Informe%20de%20Usabilidad%20(Acogavi).pdf
+>>> Reporte de Usabilidad (Acogavi): https://github.com/MiguelangelX72/DIU21/blob/master/P4/Informe%20de%20Usabilidad%20B%20(Acogavi).pdf
 
 >>> Después del análisis realizado, hemos observado que la aplicación “Acogavi” muestra una gran aceptación por el usuario debido a un punto fuerte que es la simpleza. Gracias a ello, las opciones disponibles que se muestran en cada paso aportan al usuario la información necesaria para poder desenvolverse hasta conseguir su objetivo, evitando que el usuario se distraiga en opciones que no son determinantes en ese momento. Destacar que la experiencia del usuario juega a su favor en todo tipo de entornos, sin embargo uno de los usuarios no ha sido capaz de encontrar las preguntas frecuentes ya que solamente se encuentran en el apartado “Cartera” porque el usuario debe estar logueado. 
 
