@@ -283,15 +283,13 @@ Repositorio: https://github.com/daviyisu/DIU21
 
 ![LosCompadres-SUS](img/LosCompadres-SUS.png) 
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+>>> Valoración personal 
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
+>>> Reporte de Usabilidad (Acogavi):  https://github.com/MiguelangelX72/DIU21/blob/master/P4/Informe%20de%20Usabilidad%20(Acogavi).pdf
 
 >>> Valoración personal 
 
