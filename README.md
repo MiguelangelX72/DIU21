@@ -283,7 +283,7 @@ Repositorio: https://github.com/daviyisu/DIU21
 
 ![LosCompadres-SUS](img/LosCompadres-SUS.png) 
 
->>> Valoración personal 
+>>> Como se muestra en la tabla, todos los usuarios han tenido buenas experiencias con las aplicaciones con una calificacion de aceptable Tipo B, exceptuando uno de ellos que tiene una calificacion de Marginal D, lo cual se entiende ya que la aplicacion en cuestion "Turismo Galera" va dirigida a personas mayores que no suelen tener mucha experiencia en el uso de este tipo de aplicaciones por lo cual es dificil cumplir con las necesidades de estos.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
@@ -314,7 +314,8 @@ Repositorio: https://github.com/daviyisu/DIU21
 ## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+>>> Nuestra perspectiva a la hora de afrontar un proyecto con ésta envergadura ha cambiado considerablemente. Nos ha enseñado a tener en cuenta otros puntos de vista y a organizar hacia donde queremos llegar. Para ello hemos usado distintas técnicas que nos han facilitado el alcanzar el punto en el que nos encontramos hoy día. 
+>>> Hemos desarrollado un conocimiento más crítico que nos ayudará en futuros proyectos. 
 
 
 
