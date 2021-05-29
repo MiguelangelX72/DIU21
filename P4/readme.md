@@ -51,7 +51,7 @@ Repositorio: https://github.com/daviyisu/DIU21
 
 # Cuestionario SUS
 
-![LosCompadres-SUS](img/LosCompadres-SUS.png) 
+![LosCompadres-SUS](../img/LosCompadres-SUS.png) 
 
 
 # Usability Report
